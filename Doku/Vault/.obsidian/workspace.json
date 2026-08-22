@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "30def30be6294718",
+    "type": "split",
+    "children": [
+      {
+        "id": "132056fad11e790b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d968c1d49e3470ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Unity2D-Wissen/Movement/Unity 2D — GroundCheck und Springen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unity 2D — GroundCheck und Springen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f698f8093bca3e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "616be9e9cf6b7323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5d370d4076f31a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "00a429da11f26fa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "95efc1e67977b9a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "735bc20bdecdaea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ee33bf308b2018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eedea0d8cd55d616",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "d880680aea5428a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "f6cff69aca47e0fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "224daf8fece553dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "6f712ff5de64d058",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "d968c1d49e3470ba",
+  "lastOpenFiles": [
+    "Unity/Unity2D-Wissen/Movement/Bewegung.md",
+    "Unity/Unity2D-Wissen/Movement/Unity 2D — GroundCheck und Springen.md",
+    "Unity/Unity2D-Wissen/Movement/Links-Rechts Bewegung mit A und D.md",
+    "Unity/Unity2D-Wissen/Skripts/Grundlagen Skripts.md",
+    "Unity/Unity2D-Wissen/Sprites/2D Grundlagen.md",
+    "Unity/Unity2D-Wissen/Unity 2D Wissen.md",
+    "Unity/Unity2D-Wissen/Maustracking/Mausklick und Position tracken.md",
+    "Unity/Unity2D-Wissen/Kamera Grundlagen.md",
+    "Unity/Unity2D-Wissen/Effekte/ParticleSystem durch Skript steuern.md",
+    "Unity/Unity2D-Wissen/Skripts/Objekte und Physik im Skript verwenden.md",
+    "Unity/2d/Sprites/Grundlage.md",
+    "Unity/Unity2D-Wissen/Movement",
+    "Unity/Unity2D-Wissen/Skripts",
+    "Unity/Unity2D-Wissen/UI/UI per Skript anpassen.md",
+    "Unity/Unity2D-Wissen/UI/UI anwenden und sichtbar machen.md",
+    "Unity/Unity2D-Wissen/UI/UI Grundlagen.md",
+    "Unity/Unity2D-Wissen/UI",
+    "Unity/Unity2D-Wissen/Effekte/ParticleSystem Grundlagen.md",
+    "Unity/Unity2D-Wissen/Effekte",
+    "Unity/Unity2D-Wissen/Maustracking",
+    "Unity/Unity2D-Wissen/Sprites/Sprite Physik.md",
+    "Unity/Unity2D-Wissen/Sprites/Sprites Grundlagen.md",
+    "Unity/Unity2D-Wissen/Sprites",
+    "Unity/Unity2D-Wissen",
+    "Unity/2d/Kamera Ansicht.md",
+    "Unity/2d/Sprites",
+    "Unbenannt",
+    "Unity/2d",
+    "Willkommen.md"
+  ]
+}
